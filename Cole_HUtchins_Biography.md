@@ -23,4 +23,5 @@ Aviation Systems Engineering Intern, GE Aviation, Grand Rapids Michigan ( 1 seme
 •	Data Analysis
 ## Projects Sought
 •	Trip planner – scrapes web for events, games, season-specific ideas for a trip. Combines both time-sensitive and static events. For example, a trip to Cincinnati would recommend Findlay Market during summer, Reds games during home games, and always suggest the Newport Aquarium.
+
 •	AI powered test prep (SAT ACT). Student has a diagnostic test. Then, the program learns the students strengths and weaknesses. Questions that fall in the student's 'strengths' are asked less frequently. The program also refers students to lessons related to their weaknesses.
