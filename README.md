@@ -9,7 +9,7 @@ JTCX
 - Email Address: shaheejn@mail.uc.edu
 ### Cole Hutchins
 - Major: Computer Science
-- Email Address:
+- Email Address: hutchicj@mail.uc.edu
 ### Toby Knueven
 - Major: Computer Science
 - Email Address: knueveta@mail.uc.edu
