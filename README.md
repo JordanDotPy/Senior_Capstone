@@ -17,4 +17,5 @@ JTCX
 - Major: Computer Science
 - Email Address: 
 
-## Project Description
+## Project Sought
+Create a web-based Bias News Detector with Natural Language Processing and other forms of AI/ML.
