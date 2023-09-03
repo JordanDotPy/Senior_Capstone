@@ -12,7 +12,7 @@ JTCX
 - Email Address:
 ### Toby Knueven
 - Major: Computer Science
-- Email Address:
+- Email Address: knueveta@mail.uc.edu
 ### Xander Hatton
 - Major: Computer Science
 - Email Address: 
