@@ -8,6 +8,5 @@
 - Email Address: shaheejn@mail.uc.edu
 ### Cole Hutchins
 ### Toby Knueven
-### Duncan Collins
 
 ## Project Description
