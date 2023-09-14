@@ -2,8 +2,9 @@
 
 ```mermaid
 graph TD;
-    User --> Send News Article to Website;
-    Send News Article to Website --> Bias Rating of the Article;
+    A[User] --> B;
+    B[Send News Article to Website] --> C;
+    C[Bias Rating of the Article];
 ```
 
 ### Design Level 1
