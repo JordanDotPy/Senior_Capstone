@@ -1,9 +1,10 @@
 ### Design Level 0
 
 ```mermaid
-graph LR;
-    User --> Send News Article to Website;
-    Send News Article to Website --> Bias Rating of the Article;
+graph TD;
+    A[User] --> B
+    B[Send News Article to Website] --> C
+    C[Bias Rating of the Article]
 ```
 
 ### Design Level 1
