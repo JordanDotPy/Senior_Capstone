@@ -1,8 +1,9 @@
+### Design Level 0
+
 ```mermaid
-    flowchart TD
-        A[News Article] --> B
-        B[Bias Detector] --> C
-        C[Bias Mesurement]
+graph TD;
+    User --> Send News Article to Website;
+    Send News Article to Website --> Bias Rating of the Article;
 ```
 
 ### Design Level 1
@@ -13,5 +14,5 @@ graph TD;
     B[Access Bias News Detector Website] --> C
     C[Upload a news website's article link] --> D
     D[Scrape text from article link] --> E
-E[Determine Bias Rating of the Article]
+    E[Determine Bias Rating of the Article]
 ```
