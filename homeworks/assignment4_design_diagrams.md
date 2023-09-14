@@ -1,5 +1,5 @@
 ```mermaid
 graph TD;
-    A[User] --> B[Send News Article to Website];
-    B --> C[Bias Rating of the Article];
+    User --> Send News Article to Website;
+    Send News Article to Website --> Bias Rating of the Article;
 ```
