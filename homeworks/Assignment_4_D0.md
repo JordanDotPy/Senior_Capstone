@@ -1,7 +1,7 @@
 ### Design Level 0
 
 ```mermaid
-graph TD;
+graph LR;
     User --> Send News Article to Website;
     Send News Article to Website --> Bias Rating of the Article;
 ```
