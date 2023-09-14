@@ -11,9 +11,9 @@ graph TD;
 
 ```mermaid
 graph TD;
-    A[User] --> B
-    B[Access Bias News Detector Website] --> C
-    C[Upload a news website's article link] --> D
-    D[Scrape text from article link] --> E
-    E[Determine Bias Rating of the Article]
+    D[User] --> D
+    D[Access Bias News Detector Website] --> E
+    E[Upload a news website's article link] --> F
+    F[Scrape text from article link] --> G
+    G[Determine Bias Rating of the Article]
 ```
