@@ -10,7 +10,7 @@ graph LR;
 ### Design Level 1
 
 ```mermaid
-graph TD;
+graph LR;
     A[User] --> B
     B[Access Bias News Detector Website] --> C
     C[Upload a news website's article link] --> D
@@ -21,7 +21,7 @@ graph TD;
 ### Design Level 2
 
 ```mermaid
-graph TD;
+graph LR;
     A[User] --> B;
     B[Access Bias News Detector Website] --> C;
     C[Upload a news website's article link] --> D;
