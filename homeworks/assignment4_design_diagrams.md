@@ -10,9 +10,19 @@ graph TD;
 
 ```mermaid
 graph TD;
+    A[User] --> B
+    B[Access Bias News Detector Website] --> C
+    C[Upload a news website's article link] --> D
+    D[Scrape text from article link] --> E
+    E[Determine Bias Rating of the Article]
+```
+
+### Design Level 2
+
+```mermaid
+graph TD;
     User --> Access Bias News Detector Website;
     Access Bias News Detector Website --> Upload a news website's article link;
     Upload a news website's article link --> Scrape text from article link;
     Scrape text from article link --> Determine Bias Rating of the Article;
 ```
-
