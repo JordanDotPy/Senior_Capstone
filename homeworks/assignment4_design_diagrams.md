@@ -27,5 +27,5 @@ graph TD;
     C[Upload a news website's article link] --> D;
     D[Scrape text from article link] --> E;
     E[Use Natural Language Processing to find Bias Words] --> F;
-    F[Scale Bias Score based on context, writer, information given, etc.]
+    F[Scale Bias Score based on context, writer, information given, etc.];
 ```
