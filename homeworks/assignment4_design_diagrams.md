@@ -15,3 +15,4 @@ graph TD;
     Upload a news website's article link --> Scrape text from article link;
     Scrape text from article link --> Determine Bias Rating of the Article;
 ```
+
