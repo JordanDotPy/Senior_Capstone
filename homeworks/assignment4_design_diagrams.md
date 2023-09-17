@@ -13,11 +13,11 @@ graph LR;
 
 ```mermaid
 graph TD;
-    A[User] --> B
-    B[Access Bias News Detector Website] --> C
-    C[Upload a news website's article link] --> D
-    D[Scrape text from article link] --> E
-    E[Determine Bias Rating of the Article]
+    A[User] --> B;
+    B[Access Bias News Detector Website] --> C;
+    C[Upload a news website's article link] --> D;
+    D[Scrape text from article link] --> E;
+    E[Determine Bias Rating of the Article];
 ```
 
 ### Design Level 2
@@ -29,5 +29,5 @@ graph TD;
     C[Upload a news website's article link] --> D;
     D[Scrape text from article link] --> E;
     E[Use Natural Language Processing to find Bias Words] --> F;
-    F[Scale Bias Score based on context, writer, information given, etc.];
+    F[Scale Bias Score based on the context, author, information given, etc.];
 ```
