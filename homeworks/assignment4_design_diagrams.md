@@ -6,7 +6,7 @@
 graph LR;
     A[User] --> B;
     B[Send News Article to Website] --> C;
-    C[Bias Rating of the Article];
+    C[Obtain Bias Rating of the Article];
 ```
 
 ### Design Level 1
@@ -15,8 +15,8 @@ graph LR;
 graph TD;
     A[User] --> B;
     B[Access Bias News Detector Website] --> C;
-    C[Upload a news website's article link] --> D;
-    D[Scrape text from article link] --> E;
+    C[Upload a News Website's Article Link] --> D;
+    D[Scrape Text from Article Link] --> E;
     E[Determine Bias Rating of the Article];
 ```
 
@@ -26,8 +26,8 @@ graph TD;
 graph TD;
     A[User] --> B;
     B[Access Bias News Detector Website] --> C;
-    C[Upload a news website's article link] --> D;
-    D[Scrape text from article link] --> E;
-    E[Use Natural Language Processing to find Bias Words] --> F;
-    F[Scale Bias Score based on the context, author, information given, etc.];
+    C[Upload a News Website's Article Link] --> D;
+    D[Scrape Text from Article Link] --> E;
+    E[Use Natural Language Processing to Find Bias Words] --> F;
+    F[Measure Bias Score Based on the Context, Author, Information Given, etc.];
 ```
