@@ -30,5 +30,5 @@ graph TD;
     D[Scrape Text from Article Link] --> E;
     E[Use Natural Language Processing to Find Bias Words] --> F;
     F[Measure Bias Score Based on the Context, Author, Information Given, etc.] --> G;
-    G[Reveal Bias Metric to User];
+    G[Reveal Bias Metric to User and Highlighted Bias Section(s)];
 ```
