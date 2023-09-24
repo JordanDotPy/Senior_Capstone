@@ -1,10 +1,10 @@
 # Task List:
-- Develop all HTML Webpages (Jordan)
-- Design Main Styling Sheet and base.html for HTML Webpages (Jordan)
+- Design and create the webpage layout of the website (Jordan)
+- Design Main Styling Sheet and base HTML outline for HTML Webpages (Jordan)
 - Develop Backend Structure of Website (Jordan)
 - Design Database Structure (Jordan)
-- Design Web Server for Website (Jordan and Colson)
-- Develop web scraper (Jordan and Colson)
+- Design Web Server for Website for production (Jordan and Colson)
+- Develop web scraper to parse news articles (Jordan and Colson)
 
 
 - Design and develop NLP model (Colson)
