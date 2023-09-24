@@ -8,13 +8,7 @@
 
 
 - Design and develop NLP model (Colson)
-- Develop/test/improve NLP model to identify biased words/phrases (Colson)
-- Design weighted scoring system (what source, what biased words/phrases used) (Colson)
+- Develop/test/improve NLP model to identify biased words/phrases (Colson and Tobias)
+- Design weighted scoring system (what source, what biased words/phrases used) (Colson and Tobias)
 
-
-## Tobias
-
-## Xander
-- Design Unit Tests and other Quality Assurance software
-- Assure that User Experience is intuitive
-- 
+- Make sure UX is optimal (Alexander)
