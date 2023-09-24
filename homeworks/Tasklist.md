@@ -12,3 +12,5 @@
 - Design weighted scoring system (what source, what biased words/phrases used) (Colson and Tobias)
 
 - Make sure UX is optimal (Alexander)
+- Verify code fulfills design plans and expectations (Alexander)
+  
