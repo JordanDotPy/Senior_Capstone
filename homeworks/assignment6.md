@@ -16,9 +16,8 @@
 
 ## Table 2
 
-| Task Description | Team Member of Primary Responsibility | Member 1 Effort (%) | Member 2 Effort (%) | Member 3 Effort (%) | ... |
-|------------------|---------------------------------------|---------------------|---------------------|---------------------|-----|
-| Task 1: Sample   | Member 1                              | 60%                 | 30%                 | 10%                 | ... |
-| Task 2: Example  | Member 2                              | 10%                 | 70%                 | 20%                 | ... |
-| Task 3: Another  | Member 3                              | 20%                 | 20%                 | 60%                 | ... |
-| ...              | ...                                   | ...                 | ...                 | ...                 | ... |
+| Task Description | Team Member of Primary Responsibility | Member 1 Effort (%) | Member 2 Effort (%) | Member 3 Effort (%) |
+|------------------|---------------------------------------|---------------------|---------------------|---------------------|
+| Task 1: Sample   | Member 1                              | 60%                 | 30%                 | 10%                 |
+| Task 2: Example  | Member 2                              | 10%                 | 70%                 | 20%                 |
+| Task 3: Another  | Member 3                              | 20%                 | 20%                 | 60%                 |
