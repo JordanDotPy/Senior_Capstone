@@ -7,19 +7,19 @@
 
 ## Timeline
 
-| Task | Start Date | Completion Date | Milestone Planned Completion Date |
-|------|------------|-----------------|----------------------------------|
-| Task 1: Webpage outline | MM/DD/YYYY | MM/DD/YYYY | MM/DD/YYYY |
-| Task 2: Webscraper | MM/DD/YYYY | MM/DD/YYYY | MM/DD/YYYY |
-| Task 3: Bias metric | MM/DD/YYYY | MM/DD/YYYY | MM/DD/YYYY |
-| Task 4: ML NLP bias classifier | MM/DD/YYYY | MM/DD/YYYY | MM/DD/YYYY |
+| Task | Start Date | Planned Completion Date |
+|------|------------|-----------------|
+| Task 1: Webpage outline | 01/08/2024 | 01/22/2024 |
+| Task 2: Webscraper | 01/22/2024 | 02/05/2024 |
+| Task 3: Bias metric/training data | 02/05/2024 | 02/19/2024 |
+| Task 4: ML NLP bias classifier | 02/19/2024 | 03/18/2024 |
 
 
 ## Effort Matrix
 
-| Task Description | Team Member of Primary Responsibility | Shaheen Effort (%) | Hatton Effort (%) | Knueven Effort (%) | Hutchins (%) |
+| Task Description | Team Member of Primary Responsibility | Shaheen Effort (%) | Hatton Effort (%) | Knueven Effort (%) | Hutchins Effort (%) |
 |------------------|---------------------------------------|---------------------|---------------------|---------------------|---------------------|
 | Task 1: Webpage outline | Jordan Shaheen                 | 75%                 | 25%                 | 0%                  | 0%                  |
 | Task 2: Webscraper | Alexander Hatton                    | 25%                 | 75%                 | 0%                  | 0%                  |
-| Task 3: Bias metric  | Tobias Knueven                    | 0%                  | 0%                  | 75%                 | 25%                 |
+| Task 3: Bias metric/training data  | Tobias Knueven      | 0%                  | 0%                  | 75%                 | 25%                 |
 | Task 4: ML NLP bias classifier  | Colson Hutchins        | 0%                  | 0%                  | 25%                 | 75%                 |
