@@ -1,6 +1,6 @@
-Assignment #3 
-Jordan Shaheen
-Part 2
+Assignment #3  
+Jordan Shaheen  
+Part 2  
 
 The goal for my senior year capstone is to showcase my current potential as a computer scientist and what I have learned throughout my experience in college.  
 When deciding on my capstone project, my team and I chose a topic and software techniques prevalent today.  
