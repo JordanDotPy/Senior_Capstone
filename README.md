@@ -79,7 +79,7 @@ graph TD;
 | Task Description | Team Member of Primary Responsibility | Shaheen Effort (%) | Hatton Effort (%) | Knueven Effort (%) | Hutchins Effort (%) |
 |------------------|---------------------------------------|---------------------|---------------------|---------------------|---------------------|
 | Task 1: Webpage outline | Jordan Shaheen                 | 75%                 | 25%                 | 0%                  | 0%                  |
-| Task 2: Webscraper | Alexander Hatton                    | 25%                 | 75%                 | 0%                  | 0%                  |
+| Task 2: Webscraper | Xander Hatton                    | 25%                 | 75%                 | 0%                  | 0%                  |
 | Task 3: Bias metric/training data  | Tobias Knueven      | 0%                  | 0%                  | 75%                 | 25%                 |
 | Task 4: ML NLP bias classifier  | Colson Hutchins        | 0%                  | 0%                  | 25%                 | 75%                 |
 
@@ -97,7 +97,7 @@ https://docs.google.com/presentation/d/1co4_NATWwx58o8fNLTBt8JRdHQASSN4Hl-MjrWZ7
 
 [Cole Hutchins](docs/Self_Assessment/Cole_Hutchins_Assessment.md)
 
-[Alexander Hatton](docs/Self_Assessment/Alexander_Hatton_Assessment.md)
+[Xander Hatton](docs/Self_Assessment/Xander_Hatton_Assessment.md)
 
 ## Professional Biographies
 
@@ -107,7 +107,7 @@ https://docs.google.com/presentation/d/1co4_NATWwx58o8fNLTBt8JRdHQASSN4Hl-MjrWZ7
 
 [Cole Hutchins](docs/Biographies/Cole_Hutchins_Biography.md)
 
-[Alexander Hatton](docs/Biographies/Alexander_Hatton_Biography.md)
+[Xander Hatton](docs/Biographies/Xander_Hatton_Biography.md)
 
 ## Budget
 There have been no expenses to date.
