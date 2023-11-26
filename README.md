@@ -234,3 +234,6 @@ Web Scraping
 - https://github.com/wention/BeautifulSoup4
 - https://github.com/codelucas/newspaper
 - https://github.com/miso-belica/jusText
+
+Django Tutorial
+- https://docs.djangoproject.com/en/4.2/intro/tutorial01/
