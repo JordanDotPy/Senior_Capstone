@@ -139,7 +139,7 @@ My preliminary approach to such a project would be to develop a supervised learn
 
 **Co-op Experience**
 
-### Remarcable | Website Development (January 2021 – June 2021)
+**Remarcable | Website Development (January 2021 – June 2021)**
 - Enhanced Southwire’s Industrial website functionality.
 - Solo work with Django for HTML template adjustments, database creation, patch fixes, product illustration, and Django admin functions.
 - Developed admin functions for dimensional and electrical calculations based on product specifications.
@@ -147,13 +147,13 @@ My preliminary approach to such a project would be to develop a supervised learn
 - **Website:** [industrial.southwire.com](http://industrial.southwire.com)
 - **Software:** Python, HTML, CSS
 
-### Remarcable | Webscrape Application (June 2021 – August 2021)
+**Remarcable | Webscrape Application (June 2021 – August 2021)**
 - Developed a Django webscrape admin function.
 - Parsed dimensional cable data from a private Southwire website.
 - Application accessed through Southwire VPN, using BeautifulSoup for parsing.
 - **Software:** Python
 
-### Remarcable | Optical Character Recognition Application (June 2022 – August 2022)
+**Remarcable | Optical Character Recognition Application (June 2022 – August 2022)**
 - Developed an Optical Character Recognition application in a team.
 - Parsed data from Invoice, Quote, and Sales Order PDFs.
 - Transferred data to multiple databases using APIs.
@@ -162,7 +162,7 @@ My preliminary approach to such a project would be to develop a supervised learn
 - Application in beta stage upon exit from Co-op.
 - **Software:** Python, HTML, CSS, Angular10, Angular Material, TypeScript
 
-## Programming Language Experience
+**Programming Language Experience**
 - C++
 - Java
 - CSS
@@ -172,7 +172,7 @@ My preliminary approach to such a project would be to develop a supervised learn
 - Angular10
 - Angular Material
 
-## Skills
+**Skills**
 - Django Web Development with Angular10
 - Website Scraping
 - Optical Character Recognition
