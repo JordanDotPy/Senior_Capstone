@@ -184,7 +184,8 @@ There have been no expenses to date.
 
 ## Appendix
 Machine Learning
-- https://medium.com/@danilo.najkov/detecting-political-bias-in-online-articles-using-nlp-and-classification-models-c1a40ec3989b  
+- https://medium.com/@danilo.najkov/detecting-political-bias-in-online-articles-using-nlp-and-classification-models-c1a40ec3989b
+
 Web Scraping
 - https://github.com/wention/BeautifulSoup4
 - https://github.com/codelucas/newspaper
