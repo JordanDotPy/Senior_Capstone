@@ -61,13 +61,13 @@ graph TD;
     G[Reveal Bias Metric to User and Highlighted Bias Sections];
 ```
 
-### Project Task List
+### [Project Task List](docs/Timeline_Tasks/Tasklist.md)
 - Create a formalized outline of webpage mapping and universal styling for all webpages
 - Create webscraper that analyizes the news article website URL and scrapes the article text accuratly
 - Create Machine Learning Natural Language Processing feature that can correctly detect bias in the scraped news article
 - Create bias metric with Machine Learning to understand how bias or unbias the news article is and present the metric intuitivly to user.
 
-### Project Timeline
+### [Project Timeline](docs/Timeline_Tasks/Timeline.md)
 | Task | Start Date | Planned Completion Date |
 |------|------------|-----------------|
 | Task 1: Webpage outline | 01/08/2024 | 01/22/2024 |
