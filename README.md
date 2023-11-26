@@ -27,24 +27,20 @@ Dr. William Hawkins III
 ## Project Abstract
 The News Bias Detector aims to promote media literacy by analyzing online news for bias. Utilizing advanced NLP and ML techniques, it scrutinizes text for language patterns indicating bias. This project, driven by the escalating concerns around misinformation, leverages Django for web development and Python for algorithmic analysis. Key features include URL input for scraping articles and real-time bias assessment. Development is informed by extensive research into bias detection methodologies, existing tools, and user interaction paradigms, ensuring a blend of technical proficiency and user-centric design. This tool aspires to be an essential aid for discerning readers in the digital age.
 
-
-
-## User Stories and Design Diagrams
-
 ### User Stories
 - As a person reading the news, I want to understand the bias of articles I read in order to come to my own understanding of topics I am interested in.
 - As a Polysci student, I want a bias-metric to understand the mathmatical measurement of the bias in order to research more effectively.
 - As a marketing professional, I want to understand the bias in news articles to help advertise correctly to the right audiences.
 
 ### Design Diagrams
-### Design Level 0
+Design Level 0
 ```mermaid
 graph LR;
     A[User] --> B;
     B[Send News Article to Website] --> C;
     C[Obtain Bias Rating of the Article];
 ```
-### Design Level 1
+Design Level 1
 ```mermaid
 graph TD;
     A[User] --> B;
@@ -53,7 +49,7 @@ graph TD;
     D[Scrape Text from Article Link] --> E;
     E[Determine Bias Rating of the Article];
 ```
-### Design Level 2
+Design Level 2
 ```mermaid
 graph TD;
     A[User] --> B;
