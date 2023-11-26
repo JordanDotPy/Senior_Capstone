@@ -1,9 +1,9 @@
 # Senior_Capstone
 
-## Team Name
+### Team Name
 JTCX
 
-## Team Memebers
+### Team Memebers
 Jordan Shaheen
 - Major: Computer Science
 - Email Address: shaheejn@mail.uc.edu
@@ -24,7 +24,7 @@ Dr. William Hawkins III
 - Advisor
 - hawkinwh@ucmail.uc.edu
 
-## Project Abstract
+### Project Abstract
 The News Bias Detector aims to promote media literacy by analyzing online news for bias. Utilizing advanced NLP and ML techniques, it scrutinizes text for language patterns indicating bias. This project, driven by the escalating concerns around misinformation, leverages Django for web development and Python for algorithmic analysis. Key features include URL input for scraping articles and real-time bias assessment. Development is informed by extensive research into bias detection methodologies, existing tools, and user interaction paradigms, ensuring a blend of technical proficiency and user-centric design. This tool aspires to be an essential aid for discerning readers in the digital age.
 
 ### User Stories
@@ -61,14 +61,13 @@ graph TD;
     G[Reveal Bias Metric to User and Highlighted Bias Sections];
 ```
 
-## Project Tasks and Timeline
-### Task List
+### Project Task List
 - Create a formalized outline of webpage mapping and universal styling for all webpages
 - Create webscraper that analyizes the news article website URL and scrapes the article text accuratly
 - Create Machine Learning Natural Language Processing feature that can correctly detect bias in the scraped news article
 - Create bias metric with Machine Learning to understand how bias or unbias the news article is and present the metric intuitivly to user.
 
-### Timeline
+### Project Timeline
 | Task | Start Date | Planned Completion Date |
 |------|------------|-----------------|
 | Task 1: Webpage outline | 01/08/2024 | 01/22/2024 |
@@ -84,12 +83,12 @@ graph TD;
 | Task 3: Bias metric/training data  | Tobias Knueven      | 0%                  | 0%                  | 75%                 | 25%                 |
 | Task 4: ML NLP bias classifier  | Colson Hutchins        | 0%                  | 0%                  | 25%                 | 75%                 |
 
-## ABET Concerns Essay
+### ABET Concerns Essay
 
-## Slideshow
+### Slideshow
 https://docs.google.com/presentation/d/1co4_NATWwx58o8fNLTBt8JRdHQASSN4Hl-MjrWZ7DQw/edit?usp=sharing
 
-## Self-Assessment Essays
+### Self-Assessment Essays
 
 ### Tobias Knueven
 Bias in news reporting is becoming more recognizable, and many individuals have a desire to explore multiple sides of an issue before forming their own opinion. The goal of our senior design project is to create a browser extension that analyzes the text of an article and gives a political bias score on a left-right scale, so that users can search out neutral sources of news or at least read both left- and right-biased news. We will train an AI model on existing news articles to detect political bias. Users will be able to use the browser extension on any webpage to generate a left-right bias score. We hope that this tool will provide more transparency about information online and allow users to explore multiple perspectives.
