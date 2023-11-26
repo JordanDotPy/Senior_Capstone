@@ -91,9 +91,9 @@ https://docs.google.com/presentation/d/1co4_NATWwx58o8fNLTBt8JRdHQASSN4Hl-MjrWZ7
 
 ### Self-Assessment Essays
 
-[Tobias Knueven](docs/Self_Assessments/Tobias_Knueven_Assessment.md)
+[Tobias Knueven](docs/Self_Assessment/Tobias_Knueven_Assessment.md)
 
-[Jordan_Shaheen](docs/Self_Assessments/Jordan_Shaheen_Assessment.md)
+[Jordan_Shaheen](docs/Self_Assessment/Jordan_Shaheen_Assessment.md)
 
 ## Professional Biographies
 
