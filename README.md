@@ -101,81 +101,13 @@ https://docs.google.com/presentation/d/1co4_NATWwx58o8fNLTBt8JRdHQASSN4Hl-MjrWZ7
 
 ## Professional Biographies
 
-### Tobias Knueven
+[Tobias Knueven](docs/Biographies/Tobias_Knueven_Biography.md)
 
-**Co-op experience**
-- Software Development Intern, Mercedes-Benz Group AG, Sindelfingen, Germany (2 semesters):
-    - Worked with an embedded development team on map fusion project for the infotainment display
-    - Conceptualized and detailed fusion algorithms
-    - Implemented the algorithms for use in production vehicles
-    - Tested the results and expanded the concepts accordingly
-    - Developed and documented performance-focused C++ code
-- Web Development Intern, Siemens Digital Industries Software, Milford, OH (1 semester):
-    - Worked with a full-stack development team on an internal tool
-    - Took ownership of making styling changes on five embedded pages to improve UI
-    - Developed REST services for a new bulk delete feature
-    - Conducted manual QA testing before release
-    - Developed both AngularJS frontend and Java backend
-- Machine Learning Research Intern, University of Cincinnati, Cincinnati, OH (1 semester):
-    - Experimented with existing subspace clustering algorithms for high-dimensional time series data
-    - Compared subspace clustering with a new experimental algorithm using correlation networks
-    - Developed visualizations of the clustering results on datasets like fMRI
-    - Used Python and Julia in Jupyter Notebooks to test the algorithms and generate visuals
+[Jordan_Shaheen](docs/Biographies/Jordan_Shaheen_Biography.md)
 
-**Skills/Expertise**
-- Programming: C++, Java, Python, Julia
-- Operating Systems: Linux, Windows
-- Web Development: HTML/CSS, AngularJS
-- Database Querying: SQL
+[Cole Hutchins](docs/Biographies/Cole_Hutchins_Biography.md)
 
-**Areas of interest**
-- Automotive Industry
-- Artificial Intelligence
-
-
-### Jordan Shaheen
-
-**Co-op Experience**
-
-**Remarcable | Website Development (January 2021 – June 2021)**
-- Enhanced Southwire’s Industrial website functionality.
-- Solo work with Django for HTML template adjustments, database creation, patch fixes, product illustration, and Django admin functions.
-- Developed admin functions for dimensional and electrical calculations based on product specifications.
-- Displayed data on product detail webpages.
-- **Website:** [industrial.southwire.com](http://industrial.southwire.com)
-- **Software:** Python, HTML, CSS
-
-**Remarcable | Webscrape Application (June 2021 – August 2021)**
-- Developed a Django webscrape admin function.
-- Parsed dimensional cable data from a private Southwire website.
-- Application accessed through Southwire VPN, using BeautifulSoup for parsing.
-- **Software:** Python
-
-**Remarcable | Optical Character Recognition Application (June 2022 – August 2022)**
-- Developed an Optical Character Recognition application in a team.
-- Parsed data from Invoice, Quote, and Sales Order PDFs.
-- Transferred data to multiple databases using APIs.
-- Used Django, Tesseract, OpenCV, and Camelot for backend.
-- Frontend development with Angular10 and Angular Material.
-- Application in beta stage upon exit from Co-op.
-- **Software:** Python, HTML, CSS, Angular10, Angular Material, TypeScript
-
-**Programming Language Experience**
-- C++
-- Java
-- CSS
-- HTML
-- TypeScript
-- Python
-- Angular10
-- Angular Material
-
-**Skills**
-- Django Web Development with Angular10
-- Website Scraping
-- Optical Character Recognition
-- Image Transforming with OpenCV
-- Creating Webhooks
+[Alexander Hatton](docs/Biographies/Alexander_Hatton_Biography.md)
 
 ## Budget
 There have been no expenses to date.
