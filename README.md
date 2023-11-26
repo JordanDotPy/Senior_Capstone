@@ -95,6 +95,10 @@ https://docs.google.com/presentation/d/1co4_NATWwx58o8fNLTBt8JRdHQASSN4Hl-MjrWZ7
 
 [Jordan_Shaheen](docs/Self_Assessment/Jordan_Shaheen_Assessment.md)
 
+[Cole Hutchins](docs/Self_Assessment/Cole_Hutchins_Assessment.md)
+
+[Alexander Hatton](docs/Self_Assessment/Alexander_Hatton_Assessment.md)
+
 ## Professional Biographies
 
 ### Tobias Knueven
