@@ -18,7 +18,7 @@ Toby Knueven
 
 Xander Hatton
 - Major: Computer Science
-- Email Address:
+- Email Address: hattonab@mail.uc.edu
 
 Dr. William Hawkins III
 - Advisor
