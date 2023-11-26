@@ -7,15 +7,19 @@ JTCX
 Jordan Shaheen
 - Major: Computer Science
 - Email Address: shaheejn@mail.uc.edu
+
 Cole Hutchins
 - Major: Computer Science
 - Email Address: hutchicj@mail.uc.edu
+
 Toby Knueven
 - Major: Computer Science
 - Email Address: knueveta@mail.uc.edu
+
 Xander Hatton
 - Major: Computer Science
 - Email Address:
+
 Dr. William Hawkins III
 - Advisor
 - hawkinwh@ucmail.uc.edu
