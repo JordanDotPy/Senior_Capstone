@@ -34,9 +34,9 @@ The "Bias News Detector" will be a web-based application that uses state-of-the-
 
 - Project Manager: Oversee the project's progress, manage timelines, and coordinate with faculty advisors.  
 - Lead AI ML Developer: Handle the main coding tasks, ensuring the software functions correctly and meets specifications when it comes to the backend process of the Natural Language Processing of the news given.  
-- Data Scientist: Work on creating example data to train the model on, establish the bias scoring system.  
-- Lead Web Developer: Design the web-framework architecture, both frontend and backend, for the application.  
-- QA/General Developer: Ensure all aspects of the project are up to specification and work well together while avoiding bugs or defects. Will also act to aid the other developers as needed.  
+- Data Scientist: Work on creating example data to train the model on, establish the bias scoring system.  
+- Lead Web Developer: Design the web-framework architecture, both frontend and backend, for the application.  
+- QA/General Developer: Ensure all aspects of the project are up to specification and work well together while avoiding bugs or defects. Will also act to aid the other developers as needed.
 
 (Note: These roles are tentative and will be detailed further in Assignment   #5 Task List and Assignment #6 Effort Matrix.)
 
