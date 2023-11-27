@@ -123,3 +123,5 @@ Web Scraping
 
 Django Tutorial
 - https://docs.djangoproject.com/en/4.2/intro/tutorial01/
+
+Team Meetings were 2-3 hours weekly. Info can be found in the [team contract.](docs/Contract.md)
